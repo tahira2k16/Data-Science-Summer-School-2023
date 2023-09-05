@@ -15,3 +15,4 @@ Data Science Summer School will provide the following benefits for participants:
 The Data Science Summer School is organized by the Hertie School Data Science Lab with generous funding and support from the Hertie School and the Dieter Schwarz Foundation.
 
 https://ds3.ai/
+Recorded Sessions : https://www.youtube.com/watch?v=hWza01Oqv8A&list=PLXJigB4HJi8SRYUiUV9Z6VlBE7_Cumvqh&pp=iAQB
