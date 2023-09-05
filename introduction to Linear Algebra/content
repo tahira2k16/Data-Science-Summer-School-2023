@@ -1,0 +1,6 @@
+How can we run operations and analysis on large quantity of data? We need matrices to represent these data, process the network structure and learning operations to mine for insights.
+  Linear Algebra is an essential branch of mathematics to help make running algorithms on massive datasets feasible. 
+  This workshop will help you to develop an understanding in this important branch of mathematics for data science.
+
+This workshop will address students who never attended a Linear Algebra course. 
+  The aim is to present the mathematical concepts which are a prerequisites for lectures like Mathematics for Data Science (first), Machine Learning and Causal Inference (later).
