@@ -1,0 +1,3 @@
+Many data science challenges, particularly those in machine learning and deep learning, are essentially optimisation problems. 
+Ever wondered how exactly a logistic regression algorithm is implemented? Or how to use gradient descent? To understand how these methods work, you need to use concepts from Calculus - gradient, derivatives, limits, and chain rule. 
+This workshop will help you to develop an understanding in this important branch of mathematics for data science.
